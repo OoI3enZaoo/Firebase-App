@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "570290189192",
+    "firebase_url": "https://salon-b177d.firebaseio.com",
+    "project_id": "salon-b177d",
+    "storage_bucket": "salon-b177d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570290189192:android:66ee3138489d156c",
+        "android_client_info": {
+          "package_name": "com.example.ben.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570290189192-o7th7ffgreth12382hkdohc5g16tvqam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTyG-dPSZh0yulw7D3hx1wfIHsxXeybeg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
